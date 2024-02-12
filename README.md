@@ -1,4 +1,3 @@
-1800k
 Bing-Wallpaper
 ==============
 
@@ -34,3 +33,4 @@ fi
 ### Note:
 This isn't really finished, (especially regarding compatibility) but maybe this already is useful for someone.
 If you have any questions or ideas how to improve this, tell me! ;-)
+1800k
